@@ -6,7 +6,7 @@ author: Daniel Lurvey
 tags : [sandbox, blog post, student, reflection]
 ---
 ## Group
--My group is called Ecopet.
+..-My group is called Ecopet.
 -Our members are:
 +Dilpreet Grill
 +Thomas Robinson
